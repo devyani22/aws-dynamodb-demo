@@ -1,0 +1,4 @@
+com/example/awsdemo/AwsdemoApplication.class
+com/example/awsdemo/model/RateInfo.class
+com/example/awsdemo/repository/RateInfoRepository.class
+com/example/awsdemo/config/DynamoDBConfig.class

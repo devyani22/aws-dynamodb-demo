@@ -1,0 +1,3 @@
+com/example/awsdemo/AwsdemoApplicationTests.class
+com/example/awsdemo/rule/LocalDbCreationRule.class
+com/example/awsdemo/integ/RateInfoIntegrationTest.class
